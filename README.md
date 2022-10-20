@@ -20,3 +20,4 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
  
  
  
+ 
