@@ -16,8 +16,10 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
  
  Big-O gösterimi O(n^2)  -> n karedir
  çünkü ilk aşamada n kadar işlem yaparız ikinci aşamada ilk sayıyı bulduğumuz için n-1 şeklinde işlem yaparız bu aşamaların toplamı 1 den n e kadar olan sayıların      toplamı kadar adım vardır bunun matematikte n çarpı parantez içinde n artı 1 bölü 2 olduğu için ve dolayısıyla n kare artı n bölü 2 olduğu için en baskın n kare olduğu için Big-0 n karedir
- 
- 
+ ****
+ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+ Avarage Case
+****
  
  
  
